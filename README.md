@@ -6,3 +6,7 @@
 wcewlug.org
 └── / -> Homepage [#1]
 ```
+```
+ctf.wcewlug.org
+└── CTFd App [#3]
+```
