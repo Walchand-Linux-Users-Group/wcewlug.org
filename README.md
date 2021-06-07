@@ -12,5 +12,5 @@ ctf.wcewlug.org
 ```
 ```
 portal.wcewlug.org
-└── login page[#4]
+└── / -> Login Page [#4]
 ```
