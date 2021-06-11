@@ -4,8 +4,8 @@
 
 ```
 wcewlug.org
-├── / -> Homepage [#1]
-└── /blogs -> Blogs [#7]
+└── / -> Homepage [#1]
+    └── /blogs -> Blogs [#7]
 ```
 ```
 ctf.wcewlug.org
@@ -13,6 +13,6 @@ ctf.wcewlug.org
 ```
 ```
 portal.wcewlug.org
-├── / -> Login Page [#4]
-└── /calendar -> Calendar [#5]
+└── / -> Login Page [#4]
+    └── /calendar -> Calendar [#5]
 ```
